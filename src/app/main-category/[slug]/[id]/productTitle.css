@@ -1,0 +1,8 @@
+.product-image img {
+  height: 380px;
+}
+
+.card:hover {
+  transition: transform 0.5s ease-in-out;
+  transform: scale(1.025);
+}
