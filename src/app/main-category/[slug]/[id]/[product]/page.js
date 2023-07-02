@@ -8,6 +8,7 @@ import axios from "axios";
 import Link from "next/link";
 import { usePathname } from 'next/navigation'
 // import ImageWithCustomText from "../components/ImageWithCustomText";
+console.log("hi")
 
 const Products = () => {
     const pathname = usePathname();
